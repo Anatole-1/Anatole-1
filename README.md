@@ -4,7 +4,7 @@
 
 🇫🇷 Étudiant ingénieur en cybersécurité (4ᵉ année, @ESAIP), à la recherche d'un stage à partir de **juin 2027**.
 
-🔭 Currently working on **ULTRON** — an autonomous pentest agent driven by a local LLM. / Mon projet actuel.
+🔭 Currently building **ULTRON** — a scope-gated pentest automation orchestrator (deterministic playbook + an optional local-LLM layer). / Projet actuel : **ULTRON**, un orchestrateur de pentest automatisé borné au scope (playbook déterministe + couche LLM locale optionnelle).
 
 ### 🧰 Tech & tools
 `Python` · `C / C++` · `Java` · `TypeScript` · `Bash`
