@@ -2,7 +2,7 @@
 
 🇫🇷 Étudiant ingénieur en cybersécurité (4ᵉ année, @ESAIP), à la recherche d'un stage à partir de **juin 2027**.
 
-🔭 Currently building **ULTRON** — a scope-gated pentest automation orchestrator (deterministic playbook + an optional local-LLM layer). / Projet actuel : **ULTRON**, un orchestrateur de pentest automatisé borné au scope (playbook déterministe + couche LLM locale optionnelle).
+🔭 Currently building **sca-deep-learning** — a deep-learning side-channel attack pipeline for AES key recovery (SNR/TVLA/CPA baseline + MLP/CNN models). / Projet actuel : **sca-deep-learning**, une chaîne d'attaque par canal auxiliaire assistée par deep learning pour extraire une clé AES (base SNR/TVLA/CPA + modèles MLP/CNN).
 
 ### Tech & tools
 `Python` · `C / C++` · `Java` · `TypeScript` · `Bash`
